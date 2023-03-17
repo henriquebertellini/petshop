@@ -1,0 +1,19 @@
+body {
+    /* font-family: "Sofia", sans-serif; */ 
+    font-family: 'Lobster', cursive; 
+  }
+  .fonte {
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  .borda {
+    border-style: double;
+  border-color: rgb(0, 0, 0);
+  border-width: 10px 4px;
+  border-radius: 50px;
+  margin: 20px;
+  }
+
+  .linhaembaixo {
+    text-decoration: underline;
+  }
